@@ -1,0 +1,6 @@
+sqlalchemy
+discord
+requests==2.23.0
+Pillow==7.0.0
+vk_api==11.7.0
+xlrd==1.2.0
