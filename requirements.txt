@@ -1,6 +1,6 @@
 sqlalchemy
 discord
-requests==2.23.0
+requests==2.31.0
 Pillow==9.0.1
 vk_api==11.7.0
 xlrd==1.2.0
